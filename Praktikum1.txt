@@ -1,0 +1,3 @@
+Meisya Caesar Maulida Agustin : G.231.20.0145
+Mata Kuliah : Open Source System 
+Catatan : Praktikum dengan menggunakan GIT
